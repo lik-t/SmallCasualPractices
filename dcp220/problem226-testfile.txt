@@ -1,0 +1,148 @@
+Indonesia has enormous potential in renewable resources as outlined in Table below The
+potential renewable energy resources are based on a technical assessment by the MoEMR
+only but do not necessarily consider the financial/economic viability of individual projects
+However Government Regulation No on the National Energy Policy the
+requires that the development of renewable energy resources consider economic
+The potential resource estimates in Table also do not consider locational factors
+as some renewable energy resources are located in areas with very low electricity
+demand). As such, some renewable energy projects may not be economically feasible.
+Renewable energy is nevertheless looking increasingly attractive in Indonesia not only to
+support environmental policy around CO2 emissions and urban air pollution but also due to the
+improving cost profile and ability to be deployed in a more decentralised manner. According to
+the 2018 RUPTL key factors and trends in the five major renewable energy sectors include:
+• Hydro: Hydropower is currently the largest single source of renewable power in Indonesia.
+In 2017, hydro accounted for 7.1% of national power generation with this expected to
+grow to 9.3% in 2027. Many prospective sites have good water flow although limitations
+on foreign ownership may hold back smaller projects (see Section 2.5.2 - The Negative List
+for further details). On 2 August 2017 and 8 September 2017 however, the MoEMR gave
+in-principle approval for at least 50 small hydro (≤ 10 Megawatt (“MW”)) Power Purchase
+Agreements (“PPAs”) with PLN at tariffs between IDR 780 and 1,050/kWh. Since then,
+approximately 38 small hydro projects have reported difficulties in reaching financial close
+as at the end of the first quarter of 2018.14 In April 2018, IPP hydropower developers were
+invited by PLN to a general pre-qualification process for future hydropower projects with
+over 100 developers submitting applications to PLN.15
+• Solar PV: Despite naturally high solar penetration across most parts of the country Solar
+PV deployment currently remains limited (estimated to be 109 MWp)16. The potential is
+estimated to be around 208 GWp.17 There have been several revisions to the regulations
+underpinning Solar PV pricing and procurement over the past few years although the
+problematic regulations regarding local content remain (see Section 2.2.3 - Local Content).
+Based on Official Letter of the Minister of Energy and Mineral Resources No. 5827/23/
+MEM.I./2017 up to six Solar PV PPAs have been signed but, at the time of the writing,
+two out of the six were reported to be facing difficulties with reaching financial close as
+at the end of the first quarter of 2018. There is no further information regarding the
+MW of solar PV tenders in Sumatera after pre-qualification was completed in the secondhalf
+of 2017. The tenders are understood to be waiting for administrative documents to be
+completed
+Geothermal: With Indonesia possessing the second-largest geothermal resource in the
+world the geothermal share of the fuel mix is expected to almost double from 5% in 2017
+to 9.8% in 2027. A key strength of geothermal is its ability to provide base-load power
+offsetting one of the traditional weaknesses of renewable energy. However, there are only a
+limited number of concessions under development with PPA approval slow and Indonesian
+state-owned enterprises (“SOEs”) playing a dominant role. Notwithstanding this, the
+Independent Power Producer (“IPP”)-driven Sarulla project came online in March 2017
+with Unit-1 (110 MW), followed by Unit-2 in October 2017 (110 MW) and Unit-3 in May
+2018 (110 MW). There was also the Karaha geothermal power plant (30 MW) becoming
+operational in April 2018.19 Along with hydropower, PLN also invited developers of
+geothermal power plants to a pre-qualification process in April 2018.
+Bioenergy: The bioenergy market consists of discrete segments such as agricultural/
+plantation biomass waste, Palm Oil Mill Effluent (“POME”), Municipal Solid Waste
+(“MSW”) and biodiesel. The market largely consists of power plants with 10 MW or less
+of capacity. Significant potential remains with large amounts of agricultural waste and
+MSW currently being improperly disposed of, however, realising this potential will require
+changes in the regulatory and contracting environment especially at the sub-national
+government level. The recently issued Presidential Regulation (“PR”) No. 35/2018 is the
+current reference for MSW PPAs. On 2 August 2017, PLN also signed at least four biomass
+and five biogas PPAs ≤ 10 MW at tariffs between IDR 890 and IDR 1,555/kWh. However it
+is reported that five Bioenergy PPAs have faced difficulties in financing their projects as of
+the first quarter of 2018.20 78 companies were nevertheless reported to have participated in
+the tender for waste-to-energy infrastructure in Tangerang while waste power plants of an
+aggregate 95 MW across Indonesia are yet to be awarded
+Wind: Historically wind has not played an important role in Indonesia’s fuel mix. However,
+significant progress has been observed with UPC’s 75 MW Sidrap wind farm in South
+Sulawesi becoming operational from March 2018, and being officially inaugurated by
+President Joko Widodo in July 2018.22 The 72 MW Jeneponto wind farm in the same
+province is also expected to become operational in the near future
+MoEMR Regulation No. 50/2017 regulates the tariff regimes for renewable electricity
+generation with tariffs still benchmarked to PLN’s average electricity generation cost (Biaya
+Pokok Pembangkitan – “BPP”). As a result developers are still facing challenges regarding the
+viability of the new power plant projects although the severity of the impact depends on the
+geographical area.
+Many factors support renewable deployment, including falling costs, national carbon emissions
+targets, the high cost of oil-based generation (especially in remote regions) and the regulatory
+and physical barriers to gas distribution. However, the lack of a bankable PPA has become a
+major concern. Of the 70 renewable power plant projects signed before the end of 2017, 55
+projects have since experienced financing difficulties.24 As of June 2018, 45 projects were
+reported to have made no progress towards financial close with only four projects having
+reached COD.25 METI also stated that most of their members were unable to secure funding for
+new renewables projects under the new PPAs.26
+Further discussion on renewables, as well as other technologies such as ocean thermal energy
+conversion, can be found in Chapter 5. Please also see Section 5.9 - New Tariff Stipulations for
+Renewable Energy for more information on MoEMR Regulation No. 50/2017.
+Under Law No. 30/2009 (the “2009 Electricity Law”), electricity tariffs no longer need to be
+uniform throughout Indonesia and thus may differ between operating areas or Wilayah Usaha.
+Tariffs are differentiated depending on the end user group. In general, electricity tariffs are
+set by taking into account the customer’s purchasing power as well as the installed power
+capacity of each customer group. The higher the installed power the higher the tariff imposed.
+The higher the electricity consumption the higher the multiplier used to determine the tariff
+imposed in order to encourage customers to use electricity wisely. Different tariffs are subject
+to different subsidy arrangements. For example tariffs for low income households are heavily
+subsidised with IDR 415/kWh representing a price of less than a third of the average electricity
+supply cost of IDR 1,318/kWh in 2017.27
+Prior to 2013, PLN’s revenue was dictated by regulated electricity prices with tariffs set by the
+Central Government and ultimately approved by Parliament. This was except for electricity
+prices in Batam which were approved by the Regional Government. Since price increases
+required approval from Parliament, PLN’s financial position was directly subject to the political
+process. Should the regulated price for electricity fall below the cost of production (which
+has generally been the case) the Ministry of Finance (“MoF”) is required to compensate PLN
+through a subsidy. Since 2013, the electricity subsidy has stabilised due to the stabilisation of
+the average cost of electricity supply as well as PLN’s ability to pass on increases in inflation,
+the price of oil and the USD/IDR exchange rate to (non-subsidised) consumers (the “automatic
+tariff adjustment mechanism”) through MoEMR Regulation No. 31/2014, as amended
+by MoEMR Regulation No. 9/2015 (see Table 1.2). This subsidy includes a public service
+obligation (“PSO”) margin which was originally set in 2009 at 5% above the cost of electricity
+supplied. The margin was increased to 8% for 2010 and 2011 and then reduced to 7% from
+2012.
+Being an archipelago, Indonesia’s electricity is managed through a series of separate T&D grids.
+There are over 600 isolated grids and eight major networks in total. PLN currently has a defacto
+monopoly on T&D asset ownership and operations although the private sector is legally
+permitted to operate T&D grids (see Section 2.2.2.2 - Transmission, Distribution and Retailing).
+Certain transmission lines are built by IPPs, particularly for power plants in remote areas, in
+order to connect the power plants to the closest PLN substations. However, ownership of these
+transmission lines will typically be transferred to PLN upon the completion of construction.
+At the end of 2017, PLN served 67.5 million customers through a transmission network
+comprised of 48,901 kilometre circuits (“kmc”) of transmission lines and 113,791 Megavolt
+Amperes (“MVA”) of transmission transformer capacity. Given that close to 5% of the
+population of Indonesia is without access to electricity, and many of those who are connected
+suffer frequent supply interruptions, it is unsurprising that the expansion of power generation
+and T&D networks is both a top priority and a major challenge. According to the 2018 RUPTL,
+PLN projects electricity demand to grow at 6.9% p.a. until 2027 reaching a total of 434 TWh of
+electricity consumed in 2027. This is compared to 223 TWh in 2017. By 2024, the Government
+expects the entire population of Indonesia to have access to electricity.
+Renewables have increased in importance in recent years due to concerns over global warming
+and other environmental issues. Certain renewable technologies have also become more
+attractive due to falling costs. These factors are reflected in the target energy mix for primary
+energy demand in Indonesia with the renewable energy portion being increased to 23% based
+on the 2014 NEP compared to 17% based on PR No. 5/2006. In addition, the 2014 NEP aims
+to achieve an optimal primary energy mix of: (1) NRE of at least 23%, oil of less than 25%,
+coal of at least 30% and natural gas of at least 22% by 2025; (2) NRE of at least 31%, oil of less
+than 20%, coal of at least 25% and natural gas of at least 24% by 2050. Further, the 2014 NEP
+aims for a primary energy supply of 400 Million Tonnes of Oil Equivalent (“MTOE”) and 1,000
+MTOE by 2025 and 2050 respectively, or 1.4 TOE/capita and 3.2 TOE/capita by 2025 and 2050
+respectively.
+The strategy for the utilisation of national energy sources by the Government and/or Regional
+Governments includes the following measures:
+• Utilisation of renewable energy from waterflow and waterfall, geothermal, sea wave, tidal
+and ocean thermal energy conversion and wind for electricity generation;
+• Utilisation of solar for electricity generation and non-electricity energy for industry,
+households and transportation;
+• Utilisation of biomass and waste for electricity generation and transportation;
+• Utilisation of natural gas for industry, electricity generation, households and transportation
+specifically in cases that offer the highest value added;
+• Utilisation of coal for electricity generation and industry;
+• Utilisation of new solid and gas energy sources for electricity generation;
+• Utilisation of ocean thermal energy conversion as a prototype for early-stage connection to
+the power grid;
+• Utilisation of PV solar cells for transportation, industry, commercial buildings and
+households; and
+• Maximising and making compulsory the utilisation of solar components and solar power
+plants that are manufactured domestically.
