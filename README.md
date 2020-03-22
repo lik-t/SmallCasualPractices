@@ -1,0 +1,2 @@
+# SmallCasualPractices
+Small casual practices
