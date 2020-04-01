@@ -1,2 +1,2 @@
 # SmallCasualPractices
-Small casual practices
+Keep me be familiar with Python, Algorithm and Github.
